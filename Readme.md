@@ -1,15 +1,16 @@
-Originalmente pensada como Capone Entrevista, essas perguntas surgiram da necessidade minha e do granja de divertir e conhecer de uma forma diferente as pessoas que já conhecemos!
+Pra passar horas ou apenas uns bons minutos conversando com alguém, explorando aspectos do momento da vida das pessoas conforme fizer sentido pra quem estiver envolvido com essa brincadeira que é muito séria =]
 
-## Regras
-1. O contexto de cada pergunta é do entrevistado, não podendo assim explicar as perguntas
-2. As respostas tem o prazo de validade até o fim da brincadeira
-3. O compromisso com a verdade é do entrevistado
-4. Não será feito nenhuma pergunta que o entrevistador não responderia
+## Acordos
+- O compromisso com a verdade é totalmente seu com VOCÊ, desde que a resposta seja válida.
+- Caso a pergunta dê margem à interpretação, ela não será explicada. No máximo repetida.
+- Temos mais interesse no contexto das suas respostas do que na parte objetiva dela.
+- Interpretaremos que as respostas dizem respeito a este momento da sua vida e podem mudar a qualquer momento no futuro.
+- Visando minimizar a invasividade das perguntas, o questionário foi formulado com perguntas que a pessoa que está te entrevistando estaria disposta a responder.
+- Como invasividade ainda assim é algo subjetivo, pros momentos em que se sentir desconfortável com alguma pergunta ou simplesmente pra se divertir, você tem direito a 3 poderes durante o questionário.
 
-## Super poderes
 
-Cada super poder só pode ser usado uma vez, são eles:
-
-1. Voltar a pergunta para o entrevistador
-2. Pular a pergunta
-3. Ligar para alguém e fazer essa pessoa responder a pergunta
+## Poderes
+- Pular uma pergunta: não responde a pergunta, não precisa explicar
+- Devolver uma pergunta: a pessoa que está entrevistando responde a pergunta no seu lugar
+- Responder com uma ligação: liga pra alguém e a pessoa responde a pergunta no seu lugar (ligação breve)
+- Importante: os poderes não podem ser usados na última pergunta.
